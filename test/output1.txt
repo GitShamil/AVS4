@@ -1,0 +1,15 @@
+Ivan took out cat
+Petrov put on car cat
+Ivan took out murr
+Ivan took out dog
+Petrov put on car dog
+Necheporuk value new item cat cost: 21$
+Necheporuk value new item dog cost: 11$
+Ivan took out me
+Petrov put on car me
+Petrov put on car murr
+Ivan took out wall
+Petrov put on car wall
+Necheporuk value new item me cost: 39$
+Necheporuk value new item murr cost: 42$
+Necheporuk value new item wall cost: 98$

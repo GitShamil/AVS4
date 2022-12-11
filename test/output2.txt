@@ -1,0 +1,18 @@
+Ivan took out d
+Ivan took out a
+Ivan took out 2
+Petrov put on car 2
+Necheporuk value new item 2 cost: 3$
+Ivan took out 1
+Ivan took out c
+Ivan took out 3
+Petrov put on car c
+Necheporuk value new item c cost: 34$
+Petrov put on car 1
+Petrov put on car 3
+Necheporuk value new item 1 cost: 29$
+Necheporuk value new item 3 cost: 28$
+Petrov put on car d
+Necheporuk value new item d cost: 45$
+Petrov put on car a
+Necheporuk value new item a cost: 5$

@@ -1,0 +1,5 @@
+bottle
+table
+monitor
+phone
+mug

@@ -1,0 +1,15 @@
+Ivan took out bottle
+Petrov put on car bottle
+Necheporuk value new item bottle cost: 86$
+Ivan took out table
+Ivan took out phone
+Ivan took out monitor
+Petrov put on car monitor
+Ivan took out mug
+Petrov put on car table
+Necheporuk value new item monitor cost: 46$
+Petrov put on car mug
+Petrov put on car phone
+Necheporuk value new item table cost: 94$
+Necheporuk value new item mug cost: 97$
+Necheporuk value new item phone cost: 31$
